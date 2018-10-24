@@ -1,6 +1,6 @@
 # quran-bot Install steps
 
-1. Install Python 3.7, pip 18 and pipenv globally.
+1. Install Python 3.7, pip 18.0 and pipenv globally.
 2. Clone the project.
 3. Go to project root and run: `pipenv install`.
 
