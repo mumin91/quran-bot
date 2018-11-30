@@ -6,8 +6,8 @@ name = "pypi"
 [packages]
 flask = "*"
 requests = "*"
-flask-mysql = "*"
 python-decouple = "*"
+gunicorn = "*"
 
 [dev-packages]
 pylint = "*"
